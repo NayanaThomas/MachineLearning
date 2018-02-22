@@ -1,11 +1,3 @@
-Team Members
-============
-Name: Nayana Thomas 
-Email: nxt170630@utdallas.edu
-Netid: nxt170630
-2. Nihal Abdulla PT - nxp171730
-Email: nxp171730@utdallas.edu
-Netid: nxp171730
 
 Instructions
 ============
